@@ -1,4 +1,4 @@
-#Trip sorter
+## Trip sorter
  
 It is a php script that will guide, how to complete your journey from starting point to endpoint
 
@@ -11,7 +11,7 @@ cd trip-sorter
 composer install
 ```
 
-##Requirements
+## Requirements
 This app need php >=7.0 and LAMPP/WAMPP/XAMPP to run this project
 
 ## Run
